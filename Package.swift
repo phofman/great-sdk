@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GreatSDK",
-            url: "https://github.com/phofman/great-sdk/releases/download/v1.1.0/GreatSDK.xcframework.zip",
-            checksum: "784f2a64df2534714313d2808fc619832b0589fb51cde47b5a3effec448a4ac2"),
+            url: "https://github.com/phofman/great-sdk/releases/download/v1.1.1/GreatSDK.xcframework.zip",
+            checksum: "edf0e860becf1e63f3ebe133ab61af408c33540f83062bca328930e6c0c3abe3"),
     ]
 )
